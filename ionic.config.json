@@ -1,0 +1,7 @@
+{
+  "name": "cog7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
